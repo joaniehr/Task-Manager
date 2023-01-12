@@ -1,0 +1,7 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+joanie, Capstone 3, Complete Capstone 3 coding assignment, 01 Jan 2023, 21 Dec 2022, No
+joanie, Hyperion Dev, Complete Hyperion Dev online course, 30 Mar 2023, 05 Dec 2022, No
+waverly, Be a dog, Continue to be a very cute dog, 01 Jan 2023, 21 Dec 2022, Yes
+waverly, Do dog things, Eat food and sleep all day, 23 Dec 2022, 21 Dec 2022, Yes
+joanie, Coding, Figure out what is wrong with code, 30 Dec 2022, 21 Dec 2022, Yes
